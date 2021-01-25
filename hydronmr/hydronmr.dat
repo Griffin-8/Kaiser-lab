@@ -1,0 +1,18 @@
+Puromycin                     !Name of molecule
+Pm-nmr                        !Name for output file 
+Pm_from_Pubchem.pdb           !Strucutural (PBD) file       
+3.2,                          !AER, radius of the atomic elements
+6,              !NSIG
+1.0,            !Minimum radius of beads in the shell (SIGMIN)	
+2.0,            !Maximum radius of beads in the shell (SIGMAX)	
+273.,           !T (temperature, K)
+0.00010016,           !ETA (Viscosity of the solvent in poises)
+0,              !Iflag (dipoles)				
+-2.7126         !Gyromagnetic ratio of N: unit: 10^7 rad.s^-1.T^-1
+1.02            !N-H distance, angstroms
+-160.           !Chemical shift anisotropy, ppm
+3               !Number of values of magnetic field
+14.09           !Magnetic field, teslas
+11.74           !Magnetic field, teslas
+7.05            !Magnetic field, teslas
+*                             !End of file
